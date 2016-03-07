@@ -35,7 +35,7 @@ if __name__ == '__main__':
     args = parse_args(parser)
 
     if args.command == 'index':
-        giffysub.indexer.test()
+        pass
 
     if not args.command:
         print(parser.print_help())
