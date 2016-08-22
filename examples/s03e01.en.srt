@@ -1,0 +1,2852 @@
+﻿1
+00:00:01,782 --> 00:00:03,666
+Giddyup, giddyup!
+
+2
+00:00:03,751 --> 00:00:04,884
+Meet Leslie Knope.
+
+3
+00:00:04,952 --> 00:00:06,152
+Whap!
+
+4
+00:00:06,220 --> 00:00:07,520
+I am the pants queen!
+
+5
+00:00:07,588 --> 00:00:09,172
+Leslie loves whipped cream,
+
+6
+00:00:09,256 --> 00:00:10,557
+dancing with friends,
+
+7
+00:00:10,624 --> 00:00:12,425
+and working hard
+for the Parks Department
+
+8
+00:00:12,476 --> 00:00:13,510
+of Pawnee, Indiana.
+
+9
+00:00:13,577 --> 00:00:14,794
+Cut it out, Tom.
+
+10
+00:00:14,862 --> 00:00:15,812
+It never gets old.
+
+11
+00:00:15,896 --> 00:00:16,980
+She also loves her coworkers
+
+12
+00:00:17,047 --> 00:00:18,348
+at City Hall,
+
+13
+00:00:18,432 --> 00:00:21,100
+Ron Swanson...
+
+14
+00:00:21,152 --> 00:00:22,402
+Tom Haverford...
+
+15
+00:00:24,605 --> 00:00:25,522
+Tommy Timberlake.
+
+16
+00:00:25,589 --> 00:00:26,656
+April Ludgate...
+
+17
+00:00:26,740 --> 00:00:28,408
+My mom's Puerto Rican.
+
+18
+00:00:28,475 --> 00:00:30,443
+That's why I'm so lively
+and colorful.
+
+19
+00:00:30,511 --> 00:00:32,695
+And Andy Dwyer.
+
+20
+00:00:32,780 --> 00:00:33,847
+Uh-oh.
+
+21
+00:00:33,914 --> 00:00:35,081
+Nailed it.
+
+22
+00:00:35,148 --> 00:00:37,417
+April and Andy like each other.
+
+23
+00:00:37,484 --> 00:00:39,018
+But Andy accidentally kissed
+
+24
+00:00:39,086 --> 00:00:40,954
+his ex-girlfriend,
+Ann Perkins...
+
+25
+00:00:41,021 --> 00:00:42,088
+Ooh.
+
+26
+00:00:42,155 --> 00:00:44,374
+- April left.
+- April!
+
+27
+00:00:44,458 --> 00:00:45,592
+And he hasn't seen her since.
+
+28
+00:00:45,659 --> 00:00:47,260
+In the midst of all this love,
+
+29
+00:00:47,328 --> 00:00:49,629
+two black hats rode
+into town...
+
+30
+00:00:49,697 --> 00:00:51,231
+Scientists believe
+that the first human being
+
+31
+00:00:51,298 --> 00:00:52,332
+who will live 150 years
+
+32
+00:00:52,399 --> 00:00:54,167
+has already been born.
+
+33
+00:00:54,235 --> 00:00:55,802
+I believe I am
+that human being.
+
+34
+00:00:55,853 --> 00:00:59,189
+And they brought with them
+some disturbing news.
+
+35
+00:00:59,273 --> 00:01:00,340
+Effective tomorrow morning,
+
+36
+00:01:00,407 --> 00:01:01,741
+the entire government
+will be shut down
+
+37
+00:01:01,809 --> 00:01:03,142
+until further notice.
+
+38
+00:01:03,210 --> 00:01:05,211
+What will Leslie do next?
+
+39
+00:01:05,279 --> 00:01:08,481
+Will April and Andy
+make up and make out?
+
+40
+00:01:08,549 --> 00:01:10,450
+Find out this season
+on <i>Parks and Recreation.</i>
+
+41
+00:01:10,517 --> 00:01:12,085
+Starting right now.
+
+42
+00:01:17,241 --> 00:01:21,294
+Ron...We're back.
+
+43
+00:01:21,361 --> 00:01:22,378
+Bully.
+
+44
+00:01:22,463 --> 00:01:23,930
+The bankrupt government
+of Pawnee
+
+45
+00:01:23,998 --> 00:01:26,299
+has been shut down all summer,
+
+46
+00:01:26,366 --> 00:01:27,634
+so it's been three months
+of no work,
+
+47
+00:01:27,701 --> 00:01:30,220
+no meetings, no memos,
+no late nights, nothing.
+
+48
+00:01:30,304 --> 00:01:31,804
+I wouldn't wish it
+on my worst enemy.
+
+49
+00:01:31,872 --> 00:01:33,890
+Oh, rounding up the team.
+
+50
+00:01:33,974 --> 00:01:35,475
+So exciting.
+
+51
+00:01:35,542 --> 00:01:38,761
+I have goosebumps.
+Feel.
+
+52
+00:01:38,829 --> 00:01:41,447
+And that's why they call me
+Prince Charming.
+
+53
+00:01:41,515 --> 00:01:42,749
+'Cause I always find
+the glass slipper
+
+54
+00:01:42,816 --> 00:01:44,067
+for my Cinderella.
+
+55
+00:01:44,151 --> 00:01:45,418
+These are way too tight.
+
+56
+00:01:45,486 --> 00:01:47,320
+Well, the real Cinderella
+didn't have hippo feet.
+
+57
+00:01:47,387 --> 00:01:48,571
+Tom, we're back.
+
+58
+00:01:49,890 --> 00:01:51,824
+Jeremy!
+Suck it!
+
+59
+00:01:51,892 --> 00:01:53,293
+By the way, I've been
+giving away free sports bras
+
+60
+00:01:53,360 --> 00:01:55,929
+to the girls
+at hot dog on a stick.
+
+61
+00:01:55,996 --> 00:01:57,730
+Look, we can dance all day,
+
+62
+00:01:57,798 --> 00:01:58,998
+but it's time to step up.
+
+63
+00:01:59,066 --> 00:02:01,367
+Are you buying
+4,000 rubber nipples from me
+
+64
+00:02:01,418 --> 00:02:03,286
+or not?
+
+65
+00:02:03,370 --> 00:02:04,454
+Dee, you have a visitor.
+
+66
+00:02:04,538 --> 00:02:05,788
+We back?
+
+67
+00:02:05,873 --> 00:02:06,906
+We're back.
+
+68
+00:02:06,957 --> 00:02:07,907
+All right.
+
+69
+00:02:11,211 --> 00:02:12,795
+- Jerry.
+- Oh, my gosh.
+
+70
+00:02:12,880 --> 00:02:14,347
+Look who's here.
+Leslie.
+
+71
+00:02:14,414 --> 00:02:16,266
+The nightmare's over, Jerry.
+We're going back to work.
+
+72
+00:02:16,350 --> 00:02:19,102
+You're not gonna need
+this anymore.
+
+73
+00:02:20,420 --> 00:02:21,804
+Come on!
+
+74
+00:02:24,692 --> 00:02:27,226
+I called shotgun.
+Everybody heard me.
+
+75
+00:02:30,264 --> 00:02:39,864
+<font color="#ec14bd">Sync by honeybunny</font>
+<font color="#ec14bd">www.addic7ed.com</font>
+
+76
+00:02:47,881 --> 00:02:48,831
+Well...
+
+77
+00:02:48,916 --> 00:02:52,051
+I am usually not one
+for speeches.
+
+78
+00:02:52,119 --> 00:02:53,052
+So good-bye.
+
+79
+00:02:53,120 --> 00:02:54,637
+Break's over, mofos.
+
+80
+00:02:54,722 --> 00:02:55,722
+Okay, here's the situation.
+
+81
+00:02:55,789 --> 00:02:58,007
+We are operating
+on a shoestring budget.
+
+82
+00:02:58,092 --> 00:03:00,226
+Park services
+have been slashed.
+
+83
+00:03:00,293 --> 00:03:02,512
+But we are all still here.
+
+84
+00:03:02,596 --> 00:03:04,063
+And we have a job to do.
+
+85
+00:03:04,131 --> 00:03:06,649
+Make the world's biggest pizza.
+
+86
+00:03:06,734 --> 00:03:08,101
+No, make this town fun
+
+87
+00:03:08,152 --> 00:03:09,402
+for the people who live here.
+
+88
+00:03:09,470 --> 00:03:10,403
+Fine, but after that,
+
+89
+00:03:10,470 --> 00:03:11,821
+the pizza is our top priority.
+
+90
+00:03:11,905 --> 00:03:13,072
+No, it's not.
+
+91
+00:03:13,140 --> 00:03:14,657
+We're getting pizza?
+
+92
+00:03:14,742 --> 00:03:17,994
+April, hey.
+It's me, Andy.
+
+93
+00:03:18,078 --> 00:03:19,479
+Dwyer.
+
+94
+00:03:19,546 --> 00:03:22,415
+Uh, this is, like,
+the 200th message I've left you
+
+95
+00:03:22,482 --> 00:03:24,050
+without a response.
+
+96
+00:03:24,118 --> 00:03:25,201
+So...
+
+97
+00:03:25,285 --> 00:03:27,620
+If you're trying
+to tell me something,
+
+98
+00:03:27,688 --> 00:03:29,422
+I do not know what it is
+
+99
+00:03:29,489 --> 00:03:31,858
+because you won't call me back.
+
+100
+00:03:31,925 --> 00:03:33,893
+It is truly great
+to see all of you.
+
+101
+00:03:33,961 --> 00:03:35,428
+Huh?
+
+102
+00:03:35,496 --> 00:03:36,996
+It's great news.
+
+103
+00:03:37,064 --> 00:03:39,499
+Okay, I have to run.
+Ben.
+
+104
+00:03:39,566 --> 00:03:42,568
+The bad news, which...
+
+105
+00:03:42,636 --> 00:03:44,871
+I get to deliver, is this:
+
+106
+00:03:44,938 --> 00:03:46,506
+Your only work
+for the time being
+
+107
+00:03:46,573 --> 00:03:48,841
+will be existing
+park maintenance.
+
+108
+00:03:48,892 --> 00:03:50,009
+So that just means
+
+109
+00:03:50,077 --> 00:03:51,010
+that we're in maintenance mode!
+
+110
+00:03:51,078 --> 00:03:52,445
+Yeah!
+
+111
+00:03:52,513 --> 00:03:54,397
+Jerry.
+
+112
+00:03:54,481 --> 00:03:56,215
+Okay, see, I've spent
+the last few months
+
+113
+00:03:56,283 --> 00:03:57,233
+brainstorming,
+
+114
+00:03:57,317 --> 00:03:58,234
+and I have
+some really great ideas,
+
+115
+00:03:58,318 --> 00:03:59,852
+and I put them
+in my idea binders.
+
+116
+00:03:59,903 --> 00:04:01,521
+I mean, they're color-coded,
+for God's sake.
+
+117
+00:04:01,588 --> 00:04:02,622
+Okay, actually, yeah.
+There is...
+
+118
+00:04:02,690 --> 00:04:04,374
+There is one thing
+that you will be doing.
+
+119
+00:04:04,458 --> 00:04:05,792
+Apparently, in Indiana,
+
+120
+00:04:05,859 --> 00:04:07,293
+if you don't provide
+a basketball league,
+
+121
+00:04:07,360 --> 00:04:08,711
+people get very upset.
+
+122
+00:04:08,779 --> 00:04:10,763
+And, quite frankly,
+throw things at you
+
+123
+00:04:10,831 --> 00:04:12,365
+and call you names.
+
+124
+00:04:12,433 --> 00:04:14,267
+Like turd boy.
+I... whatever.
+
+125
+00:04:14,334 --> 00:04:16,502
+Point is, I reinstated
+youth basketball.
+
+126
+00:04:16,570 --> 00:04:18,254
+It says here you only have
+money for two teams.
+
+127
+00:04:18,338 --> 00:04:20,590
+Yeah, they're gonna develop
+a great rivalry.
+
+128
+00:04:22,476 --> 00:04:24,177
+Under my tutelage,
+you will grow
+
+129
+00:04:24,228 --> 00:04:25,545
+from boys into men.
+
+130
+00:04:25,612 --> 00:04:28,147
+From men into gladiators.
+
+131
+00:04:28,215 --> 00:04:31,401
+And from gladiators
+into Swansons.
+
+132
+00:04:31,485 --> 00:04:33,436
+Behold.
+
+133
+00:04:33,520 --> 00:04:35,822
+The Swanson pyramid
+of greatness.
+
+134
+00:04:35,889 --> 00:04:38,658
+I've been developing
+the Swanson pyramid of greatness
+
+135
+00:04:38,726 --> 00:04:39,759
+for years.
+
+136
+00:04:39,827 --> 00:04:42,078
+It's a perfectly
+calibrated recipe
+
+137
+00:04:42,162 --> 00:04:44,063
+for maximum personal
+achievement.
+
+138
+00:04:44,131 --> 00:04:45,865
+Categories include:
+
+139
+00:04:45,933 --> 00:04:48,117
+Capitalism, God's way
+of determining
+
+140
+00:04:48,202 --> 00:04:50,203
+who is smart, and who is poor.
+
+141
+00:04:50,254 --> 00:04:53,206
+Crying, acceptable at funerals
+
+142
+00:04:53,273 --> 00:04:54,607
+and the Grand Canyon.
+
+143
+00:04:54,675 --> 00:04:57,143
+Rage, poise, property rights.
+
+144
+00:04:57,211 --> 00:04:59,262
+Fish, for sport only.
+
+145
+00:04:59,346 --> 00:05:00,513
+Not for meat.
+
+146
+00:05:00,581 --> 00:05:02,298
+Fish meat is practically
+a vegetable.
+
+147
+00:05:02,382 --> 00:05:03,299
+Haircuts.
+
+148
+00:05:03,383 --> 00:05:04,416
+There are three
+acceptable haircuts.
+
+149
+00:05:04,468 --> 00:05:06,085
+High and tight,
+
+150
+00:05:06,153 --> 00:05:08,488
+crew cut, buzz cut.
+
+151
+00:05:08,555 --> 00:05:10,923
+Are the scissors broken
+in your house, son?
+
+152
+00:05:10,991 --> 00:05:13,126
+So you happy
+to be back at work?
+
+153
+00:05:13,193 --> 00:05:15,194
+Well, our budget's
+been slashed to zero.
+
+154
+00:05:15,262 --> 00:05:16,779
+I tried to buy fertilizer
+the other day
+
+155
+00:05:16,864 --> 00:05:17,930
+for the soccer field.
+
+156
+00:05:17,998 --> 00:05:19,482
+Request denied.
+
+157
+00:05:19,566 --> 00:05:21,234
+We literally can't buy shit.
+
+158
+00:05:21,301 --> 00:05:23,002
+- Oh, I'm so sorry.
+- No, I mean, look.
+
+159
+00:05:23,070 --> 00:05:24,303
+When we were kids,
+
+160
+00:05:24,371 --> 00:05:26,472
+the Parks Department
+would do these big projects.
+
+161
+00:05:26,540 --> 00:05:29,742
+Winter Jamboree,
+the Harvest Festival.
+
+162
+00:05:29,810 --> 00:05:31,878
+It's like they don't have faith
+in us anymore.
+
+163
+00:05:31,945 --> 00:05:33,546
+I'm not a paper-pusher,
+Ann.
+
+164
+00:05:33,613 --> 00:05:35,047
+I need to be out
+in the streets,
+
+165
+00:05:35,115 --> 00:05:36,615
+planting trees
+and cracking skulls.
+
+166
+00:05:36,667 --> 00:05:38,518
+Leslie Knope.
+Ann Perkins.
+
+167
+00:05:38,585 --> 00:05:40,619
+How are my two favorite people
+in this entire town?
+
+168
+00:05:40,671 --> 00:05:41,838
+Not good, Chris.
+
+169
+00:05:41,922 --> 00:05:43,289
+There's a whole line of people
+in my office
+
+170
+00:05:43,340 --> 00:05:44,357
+complaining that
+all their programs
+
+171
+00:05:44,424 --> 00:05:45,675
+have been slashed.
+
+172
+00:05:45,759 --> 00:05:46,893
+Yeah, I know.
+It's terrible.
+
+173
+00:05:46,960 --> 00:05:49,896
+Is there anything
+we can do about that?
+
+174
+00:05:49,963 --> 00:05:50,997
+- No.
+- Damn, sorry, Leslie.
+
+175
+00:05:51,064 --> 00:05:52,965
+Ann, could I talk to you
+for a minute?
+
+176
+00:05:56,503 --> 00:05:58,371
+- So how's it going?
+- Save it, okay?
+
+177
+00:05:58,438 --> 00:06:00,406
+I know you don't have
+faith in me
+
+178
+00:06:00,474 --> 00:06:01,741
+and my department,
+and that's fine.
+
+179
+00:06:01,809 --> 00:06:03,042
+But don't expect me to sit here
+
+180
+00:06:03,110 --> 00:06:04,410
+and chit-chat with you.
+
+181
+00:06:04,478 --> 00:06:06,045
+All right, fair enough.
+
+182
+00:06:06,113 --> 00:06:07,180
+Go the other way.
+
+183
+00:06:07,247 --> 00:06:09,348
+But I'm just going to that...
+
+184
+00:06:09,416 --> 00:06:10,917
+All right, uh...
+
+185
+00:06:10,984 --> 00:06:12,919
+Look, I'm very flattered.
+
+186
+00:06:12,986 --> 00:06:13,920
+But again, I don't think
+
+187
+00:06:13,987 --> 00:06:15,588
+I should go out with you.
+
+188
+00:06:15,655 --> 00:06:17,156
+Can I ask you why not?
+
+189
+00:06:17,224 --> 00:06:18,324
+Because I thought
+we had a great time
+
+190
+00:06:18,392 --> 00:06:20,493
+the night you got drunk
+and kissed me.
+
+191
+00:06:20,561 --> 00:06:22,929
+And you did use your tongue.
+
+192
+00:06:22,996 --> 00:06:24,764
+I just don't think
+I'm in a place
+
+193
+00:06:24,831 --> 00:06:26,699
+to go out with anyone
+right now.
+
+194
+00:06:26,767 --> 00:06:28,167
+Okay, well,
+
+195
+00:06:28,218 --> 00:06:29,185
+if you change your mind,
+
+196
+00:06:29,269 --> 00:06:30,720
+you know where
+to find me, Ann Perkins.
+
+197
+00:06:30,804 --> 00:06:32,338
+Leslie Knope.
+
+198
+00:06:32,389 --> 00:06:34,307
+Yes.
+Did he ask you out again?
+
+199
+00:06:34,358 --> 00:06:36,192
+He did, he did.
+
+200
+00:06:36,276 --> 00:06:38,394
+He is nothing
+if not persistent.
+
+201
+00:06:38,478 --> 00:06:40,146
+And hot.
+
+202
+00:06:40,197 --> 00:06:42,215
+He's ver...
+he's pretty hot.
+
+203
+00:06:42,282 --> 00:06:43,232
+Yeah, he's hot.
+
+204
+00:06:43,317 --> 00:06:44,400
+But he's intense.
+
+205
+00:06:44,484 --> 00:06:45,785
+But he's really, really hot.
+
+206
+00:06:45,853 --> 00:06:46,903
+But he's your boss.
+
+207
+00:06:46,987 --> 00:06:48,454
+Oh, my God,
+I just thought of an idea
+
+208
+00:06:48,522 --> 00:06:49,855
+of how we can save
+the Parks Department.
+
+209
+00:06:49,907 --> 00:06:51,190
+Great.
+
+210
+00:06:51,241 --> 00:06:52,291
+Let me ask you one question.
+
+211
+00:06:52,359 --> 00:06:54,126
+Would you be cool doing things
+
+212
+00:06:54,194 --> 00:06:55,194
+that a prostitute does?
+
+213
+00:06:55,262 --> 00:06:56,963
+Uh...
+
+214
+00:06:57,030 --> 00:06:58,197
+Minus the money.
+
+215
+00:06:58,265 --> 00:07:00,416
+Definitely yes, then.
+
+216
+00:07:00,500 --> 00:07:01,601
+Thanks, Ann.
+
+217
+00:07:01,668 --> 00:07:03,586
+Looking sharp.
+Beautiful.
+
+218
+00:07:03,670 --> 00:07:05,471
+The backboard is your friend.
+
+219
+00:07:07,007 --> 00:07:08,774
+Aaaa, bam!
+
+220
+00:07:08,842 --> 00:07:10,142
+Boom!
+
+221
+00:07:10,210 --> 00:07:12,929
+I'd say my coaching style
+is centered
+
+222
+00:07:13,013 --> 00:07:14,247
+around fundamentals,
+
+223
+00:07:14,314 --> 00:07:15,481
+with an emphasis on fun.
+
+224
+00:07:15,549 --> 00:07:17,233
+Hey, watch this.
+
+225
+00:07:17,317 --> 00:07:18,901
+Go get it!
+
+226
+00:07:18,986 --> 00:07:22,421
+And a second emphasis
+on mental.
+
+227
+00:07:22,489 --> 00:07:24,156
+Yeah, it can be hard work,
+
+228
+00:07:24,224 --> 00:07:25,157
+but every time I look
+
+229
+00:07:25,225 --> 00:07:26,893
+one of these kids in the eyes
+
+230
+00:07:26,960 --> 00:07:29,395
+and he calls me coach...
+
+231
+00:07:29,446 --> 00:07:32,615
+That's how I know
+I agreed to be a coach.
+
+232
+00:07:32,683 --> 00:07:34,233
+Mouse rat!
+
+233
+00:07:34,284 --> 00:07:36,669
+Carnage!
+
+234
+00:07:36,736 --> 00:07:38,254
+Okay, gentlemen, it's time
+
+235
+00:07:38,338 --> 00:07:40,406
+for the pregame coin toss.
+
+236
+00:07:40,457 --> 00:07:42,241
+There's no coin toss
+in basketball.
+
+237
+00:07:42,292 --> 00:07:43,626
+Are those women's sneakers?
+
+238
+00:07:43,710 --> 00:07:45,411
+Yes, they are, Ron.
+You know what?
+
+239
+00:07:45,479 --> 00:07:47,964
+They fit better.
+I got an employee discount.
+
+240
+00:07:48,048 --> 00:07:48,981
+And the best part is,
+
+241
+00:07:49,049 --> 00:07:50,349
+no one can tell.
+
+242
+00:07:50,417 --> 00:07:52,251
+All right, let's do this.
+
+243
+00:07:52,319 --> 00:07:55,254
+Match point,
+touchdown, et cetera.
+
+244
+00:07:57,257 --> 00:07:59,108
+Yeah, go my team.
+All right.
+
+245
+00:07:59,176 --> 00:08:00,526
+Okay, I like
+what you're wearing,
+
+246
+00:08:00,593 --> 00:08:02,528
+but I need it to be
+300% sexier.
+
+247
+00:08:02,596 --> 00:08:03,763
+Do you have any of those shirts
+
+248
+00:08:03,830 --> 00:08:05,698
+that look wet all the time?
+
+249
+00:08:05,766 --> 00:08:06,933
+Or... or, like,
+a metal bikini?
+
+250
+00:08:07,000 --> 00:08:08,567
+Oh, you know what's
+always sexy?
+
+251
+00:08:08,635 --> 00:08:10,102
+Fingerless gloves.
+
+252
+00:08:10,170 --> 00:08:13,205
+What about if I wear
+this normal, sane outfit?
+
+253
+00:08:13,273 --> 00:08:14,273
+Yeah, okay,
+but you're gonna have to eat
+
+254
+00:08:14,341 --> 00:08:15,958
+something sexy, then,
+like a banana.
+
+255
+00:08:16,043 --> 00:08:17,159
+For dinner?
+
+256
+00:08:17,244 --> 00:08:18,244
+Well, what's sexy food?
+
+257
+00:08:18,295 --> 00:08:19,545
+Asparagus?
+
+258
+00:08:19,612 --> 00:08:20,830
+No, you know what's sexy?
+
+259
+00:08:20,914 --> 00:08:22,748
+Turkey chili.
+
+260
+00:08:22,816 --> 00:08:24,283
+- Mmm.
+- Yum.
+
+261
+00:08:24,351 --> 00:08:25,751
+And how, exactly,
+
+262
+00:08:25,819 --> 00:08:28,821
+am I supposed to casually steer
+the conversation
+
+263
+00:08:28,889 --> 00:08:30,623
+towards the Parks
+Department budget?
+
+264
+00:08:30,691 --> 00:08:31,991
+Okay, it's totally easy.
+
+265
+00:08:32,059 --> 00:08:33,859
+Tell you what.
+You be Chris.
+
+266
+00:08:33,927 --> 00:08:35,594
+I'll be you.
+I'll show you how it's done.
+
+267
+00:08:35,646 --> 00:08:36,812
+Okay.
+
+268
+00:08:36,897 --> 00:08:38,030
+Ann Perkins.
+
+269
+00:08:38,098 --> 00:08:39,565
+You are wonderful and amazing,
+
+270
+00:08:39,633 --> 00:08:40,967
+and I'm happy
+to be here with you.
+
+271
+00:08:41,034 --> 00:08:41,968
+Thank you, Chris.
+
+272
+00:08:42,035 --> 00:08:44,203
+I'm wearing a tuxedo vest
+
+273
+00:08:44,271 --> 00:08:46,155
+with no shirt on underneath.
+
+274
+00:08:46,239 --> 00:08:47,306
+Uh-oh.
+
+275
+00:08:47,374 --> 00:08:48,507
+Can I get you a drink?
+
+276
+00:08:48,575 --> 00:08:50,526
+I love every single beverage
+in the world.
+
+277
+00:08:50,610 --> 00:08:52,078
+I would like some wine.
+
+278
+00:08:52,145 --> 00:08:54,914
+And, oops, my vest popped open.
+
+279
+00:08:54,982 --> 00:08:57,750
+Just like the budget
+needs to pop open,
+
+280
+00:08:57,818 --> 00:08:59,885
+and you need to pour it
+
+281
+00:08:59,953 --> 00:09:01,854
+into my Parks Department.
+
+282
+00:09:01,922 --> 00:09:03,522
+Great.
+
+283
+00:09:03,590 --> 00:09:06,625
+I am so excited
+that you finally agreed
+
+284
+00:09:06,677 --> 00:09:07,994
+to go out with me.
+
+285
+00:09:08,061 --> 00:09:09,762
+What a magnificent
+flip-flop.
+
+286
+00:09:09,830 --> 00:09:13,332
+You're a magnificent
+asker-outer.
+
+287
+00:09:13,383 --> 00:09:15,868
+Tell me every single detail
+of your day.
+
+288
+00:09:15,936 --> 00:09:17,570
+I love dates.
+
+289
+00:09:17,637 --> 00:09:19,171
+I love connecting with someone.
+
+290
+00:09:19,222 --> 00:09:20,940
+I love engaging them.
+
+291
+00:09:21,008 --> 00:09:23,042
+I love being surprised by them.
+
+292
+00:09:23,110 --> 00:09:24,543
+I have never had a bad date.
+
+293
+00:09:24,611 --> 00:09:27,246
+They've all been either great
+or phenomenally great.
+
+294
+00:09:27,314 --> 00:09:29,615
+Nurses are the most
+undervalued members
+
+295
+00:09:29,683 --> 00:09:31,350
+of our society by far.
+
+296
+00:09:31,418 --> 00:09:33,619
+I think all of you
+should make as much money
+
+297
+00:09:33,687 --> 00:09:34,620
+as the CEO of Google.
+
+298
+00:09:34,688 --> 00:09:38,090
+Wow, thank you.
+I agree.
+
+299
+00:09:38,158 --> 00:09:39,709
+Can I ask you a question?
+
+300
+00:09:39,793 --> 00:09:41,027
+Why am I so positive
+all the time?
+
+301
+00:09:41,094 --> 00:09:45,131
+Yes, that's exactly
+the question.
+
+302
+00:09:45,198 --> 00:09:47,099
+I was born
+with a blood disorder.
+
+303
+00:09:47,167 --> 00:09:48,534
+And my parents were told
+
+304
+00:09:48,585 --> 00:09:50,202
+that I had three weeks to live.
+
+305
+00:09:50,270 --> 00:09:52,204
+And here I still am,
+
+306
+00:09:52,255 --> 00:09:55,541
+some 2,000-odd weeks later.
+
+307
+00:09:55,592 --> 00:10:01,180
+And I have enjoyed
+every one of them.
+
+308
+00:10:01,231 --> 00:10:02,681
+I think it's going well.
+
+309
+00:10:02,749 --> 00:10:05,017
+He's actually
+a really nice guy.
+
+310
+00:10:05,085 --> 00:10:06,268
+Yeah, yeah, yeah, yeah.
+
+311
+00:10:06,353 --> 00:10:07,520
+Okay, so have you asked him
+yet about the money?
+
+312
+00:10:07,571 --> 00:10:08,771
+Well, it's a date, you know?
+
+313
+00:10:08,855 --> 00:10:10,089
+It's kind of hard
+to casually bring up
+
+314
+00:10:10,157 --> 00:10:11,257
+the Parks budget
+when you're talking
+
+315
+00:10:11,324 --> 00:10:12,441
+about your favorite movies.
+
+316
+00:10:12,526 --> 00:10:15,745
+<i>Jurassic Park,</i>
+parks are so great,
+
+317
+00:10:15,829 --> 00:10:17,029
+the Parks Department
+needs money.
+
+318
+00:10:17,097 --> 00:10:18,247
+I just did it in three moves.
+
+319
+00:10:18,331 --> 00:10:19,331
+Well, then, why don't you
+just come here
+
+320
+00:10:19,399 --> 00:10:20,332
+and do it yourself?
+
+321
+00:10:20,400 --> 00:10:21,534
+- Okay.
+- Holy crap.
+
+322
+00:10:22,626 --> 00:10:25,493
+What? Chris and Ann?
+What are you two doing here?
+
+323
+00:10:25,512 --> 00:10:26,529
+We are on a date.
+
+324
+00:10:26,845 --> 00:10:28,630
+And it is going phenomenally.
+
+325
+00:10:28,714 --> 00:10:30,214
+Thanks, but I'll stay
+for just one drink.
+
+326
+00:10:30,266 --> 00:10:32,183
+I'm so happy I ran into you
+
+327
+00:10:32,251 --> 00:10:33,751
+because I wanted
+to speak to you...
+
+328
+00:10:33,819 --> 00:10:36,220
+- Well, well, well.
+- Ben.
+
+329
+00:10:36,272 --> 00:10:38,306
+- What a fun surprise.
+- Oh, that's right.
+
+330
+00:10:38,390 --> 00:10:40,058
+You were coming here tonight
+on a date.
+
+331
+00:10:40,125 --> 00:10:42,126
+And, hey, Leslie is joining you
+
+332
+00:10:42,194 --> 00:10:44,445
+on this wonderfully
+romantic occasion.
+
+333
+00:10:44,530 --> 00:10:45,863
+How 'bout that?
+
+334
+00:10:45,931 --> 00:10:47,532
+- Fantastic.
+- It is.
+
+335
+00:10:47,599 --> 00:10:48,866
+Can I talk to you?
+
+336
+00:10:48,934 --> 00:10:50,201
+- Sure.
+- What are you doing here?
+
+337
+00:10:50,269 --> 00:10:51,703
+I'm just confirming
+a suspicion I had, Leslie.
+
+338
+00:10:51,770 --> 00:10:52,837
+What are you talking about?
+
+339
+00:10:52,905 --> 00:10:54,155
+I had nothing to do
+with this date.
+
+340
+00:10:54,239 --> 00:10:55,373
+- Uh-huh.
+- They're both so beautiful.
+
+341
+00:10:55,440 --> 00:10:56,841
+They probably just want
+to see each other naked.
+
+342
+00:10:56,909 --> 00:10:58,276
+Okay, well, I know
+what you're trying to do.
+
+343
+00:10:58,344 --> 00:10:59,644
+And you're not that good
+at being sneaky.
+
+344
+00:10:59,712 --> 00:11:01,462
+- Yes, I am.
+- No, you're not.
+
+345
+00:11:01,547 --> 00:11:03,064
+- I'm great at being sneaky.
+- Clearly you're not.
+
+346
+00:11:03,132 --> 00:11:04,215
+Hey, you guys.
+
+347
+00:11:04,283 --> 00:11:06,250
+Let's all have dinner together.
+
+348
+00:11:06,318 --> 00:11:07,685
+The more the merrier.
+
+349
+00:11:07,753 --> 00:11:09,687
+- Great.
+- Great.
+
+350
+00:11:09,755 --> 00:11:11,689
+Good job, guys.
+Yep.
+
+351
+00:11:11,757 --> 00:11:12,790
+All right, Eric, taking a rest,
+
+352
+00:11:12,841 --> 00:11:14,092
+or are you hurt?
+
+353
+00:11:14,143 --> 00:11:16,010
+Taking a rest?
+
+354
+00:11:16,095 --> 00:11:17,428
+Smart.
+
+355
+00:11:17,479 --> 00:11:18,479
+Destroy them, gentlemen.
+
+356
+00:11:18,564 --> 00:11:21,632
+Feel no sympathy.
+
+357
+00:11:21,700 --> 00:11:25,570
+Yes, Ron Swanson is dating
+my ex-wife, Wendy.
+
+358
+00:11:25,637 --> 00:11:27,572
+Big deal.
+
+359
+00:11:27,639 --> 00:11:28,573
+My girlfriend, Lucy,
+
+360
+00:11:28,640 --> 00:11:30,074
+is the sexiest woman in town.
+
+361
+00:11:30,142 --> 00:11:31,676
+She's Cuban, she's got tattoos,
+
+362
+00:11:31,744 --> 00:11:33,044
+and she's into me,
+
+363
+00:11:33,112 --> 00:11:34,362
+which, as far as I'm concerned,
+
+364
+00:11:34,446 --> 00:11:37,115
+is the sexiest quality
+a woman can have.
+
+365
+00:11:37,166 --> 00:11:38,316
+Oh, I have an idea.
+
+366
+00:11:38,384 --> 00:11:40,051
+You know what would be
+really fun after dinner?
+
+367
+00:11:40,119 --> 00:11:42,253
+We should take a walk
+by the pond in Ramsett Park.
+
+368
+00:11:42,320 --> 00:11:43,855
+Walking in parks can be
+very romantic.
+
+369
+00:11:43,922 --> 00:11:45,923
+Yeah, too bad the park's
+always closed, though.
+
+370
+00:11:45,991 --> 00:11:47,859
+Okay, well,
+you two are on a date.
+
+371
+00:11:47,926 --> 00:11:52,180
+So Leslie and I
+should probably get going.
+
+372
+00:11:52,264 --> 00:11:54,015
+Uh, well, I'm actually
+having a good time
+
+373
+00:11:54,099 --> 00:11:55,016
+with everyone.
+
+374
+00:11:55,100 --> 00:11:56,718
+Chris?
+
+375
+00:11:56,802 --> 00:11:58,369
+Oh, me, too.
+I'm having a fantastic time.
+
+376
+00:11:58,437 --> 00:11:59,370
+What do you say we take
+this whole
+
+377
+00:11:59,438 --> 00:12:00,872
+date-plus-two-
+other-people thing
+
+378
+00:12:00,939 --> 00:12:02,056
+up into the stratosphere?
+
+379
+00:12:02,124 --> 00:12:03,408
+♪ Don't stop make it pop ♪
+
+380
+00:12:03,475 --> 00:12:05,777
+♪ deejay blow my speakers up ♪
+
+381
+00:12:05,844 --> 00:12:08,279
+♪ tonight I'ma fight ♪
+
+382
+00:12:08,346 --> 00:12:09,447
+♪ till we see the sunlight ♪
+
+383
+00:12:09,514 --> 00:12:10,565
+This place is outstanding.
+
+384
+00:12:10,649 --> 00:12:12,066
+Great call, Leslie Knope.
+
+385
+00:12:12,151 --> 00:12:13,084
+Thanks.
+
+386
+00:12:13,152 --> 00:12:15,720
+Look, even Ben's dancing.
+
+387
+00:12:17,990 --> 00:12:19,323
+That's the way
+to shoot the ball, Chignoli.
+
+388
+00:12:19,375 --> 00:12:20,324
+Hustle back.
+
+389
+00:12:24,963 --> 00:12:26,764
+Uh...
+
+390
+00:12:26,832 --> 00:12:27,899
+It's a foul.
+
+391
+00:12:27,966 --> 00:12:29,584
+What?
+On whom?
+
+392
+00:12:29,668 --> 00:12:30,618
+Your team.
+
+393
+00:12:30,686 --> 00:12:32,737
+Number 50.
+He was double dribbling.
+
+394
+00:12:32,805 --> 00:12:33,738
+He's on defense.
+
+395
+00:12:33,806 --> 00:12:35,623
+Exactly.
+
+396
+00:12:35,691 --> 00:12:36,908
+It's a technical difficulty,
+so that means
+
+397
+00:12:36,975 --> 00:12:38,559
+Andy's team throws the ball
+
+398
+00:12:38,644 --> 00:12:39,710
+from the stripey thing.
+
+399
+00:12:39,778 --> 00:12:40,728
+Let's go.
+
+400
+00:12:40,813 --> 00:12:42,597
+The stripey thing?
+
+401
+00:12:45,451 --> 00:12:49,270
+♪ ♪
+
+402
+00:12:49,354 --> 00:12:50,938
+Hey, there.
+
+403
+00:12:51,023 --> 00:12:52,556
+How's it going?
+
+404
+00:12:52,608 --> 00:12:54,592
+Great, thanks.
+
+405
+00:12:54,660 --> 00:12:55,576
+Can I buy you a drink?
+
+406
+00:12:55,661 --> 00:12:58,329
+Oh, I'm very flattered,
+
+407
+00:12:58,396 --> 00:13:00,281
+but this is my
+stunningly gorgeous date,
+
+408
+00:13:00,365 --> 00:13:01,299
+Ann Perkins.
+
+409
+00:13:01,366 --> 00:13:03,134
+Oh, hi.
+
+410
+00:13:03,202 --> 00:13:05,086
+- Hi.
+- Sorry.
+
+411
+00:13:05,170 --> 00:13:06,537
+Oh, no problem.
+
+412
+00:13:06,588 --> 00:13:08,623
+In fact, let me buy
+all of you a drink
+
+413
+00:13:08,707 --> 00:13:09,957
+for being so welcoming today.
+
+414
+00:13:10,042 --> 00:13:11,092
+Waiter.
+
+415
+00:13:11,176 --> 00:13:16,481
+I think I may
+actually like Chris.
+
+416
+00:13:16,548 --> 00:13:17,682
+On the house, Leslie.
+
+417
+00:13:17,749 --> 00:13:19,967
+Oh, thank you.
+
+418
+00:13:20,052 --> 00:13:21,953
+I'm sort of a gay hero.
+
+419
+00:13:22,020 --> 00:13:24,755
+Last year, I married
+two penguins at the zoo,
+
+420
+00:13:24,823 --> 00:13:25,957
+and it turned out
+they were both gay.
+
+421
+00:13:26,024 --> 00:13:27,525
+- Penguin wedding.
+- Mm-hmm.
+
+422
+00:13:27,592 --> 00:13:30,311
+- That's cute.
+- It was so cute.
+
+423
+00:13:30,395 --> 00:13:31,562
+But enough about how
+cute it was.
+
+424
+00:13:31,630 --> 00:13:32,864
+Why don't you think
+I should have the money?
+
+425
+00:13:32,931 --> 00:13:34,599
+Good lord, really?
+
+426
+00:13:34,666 --> 00:13:35,950
+Look.
+
+427
+00:13:36,034 --> 00:13:37,168
+When I was 18,
+
+428
+00:13:37,236 --> 00:13:40,171
+and I became mayor
+of my hometown,
+
+429
+00:13:40,239 --> 00:13:41,839
+I used every last dollar we had
+
+430
+00:13:41,907 --> 00:13:44,108
+to open a giant
+winter sports complex.
+
+431
+00:13:44,176 --> 00:13:45,376
+Called it Icetown.
+
+432
+00:13:45,444 --> 00:13:46,811
+And it turned out great,
+and everyone loved it.
+
+433
+00:13:46,879 --> 00:13:47,812
+Uh, yeah, kinda.
+
+434
+00:13:47,880 --> 00:13:49,180
+It was never completed,
+
+435
+00:13:49,248 --> 00:13:51,382
+and I got impeached.
+
+436
+00:13:51,450 --> 00:13:52,517
+Newspaper headline was,
+
+437
+00:13:52,584 --> 00:13:55,853
+"Icetown costs ice clown
+his town crown."
+
+438
+00:13:55,921 --> 00:13:56,888
+Yuck.
+
+439
+00:13:56,955 --> 00:13:58,823
+They were big into rhymes.
+
+440
+00:13:58,891 --> 00:14:00,424
+Well, I don't know.
+
+441
+00:14:00,476 --> 00:14:01,659
+I think Icetown sounds great.
+
+442
+00:14:01,727 --> 00:14:02,960
+And the point is,
+
+443
+00:14:03,028 --> 00:14:05,513
+at least you tried something.
+
+444
+00:14:07,299 --> 00:14:08,983
+Foul!
+
+445
+00:14:09,067 --> 00:14:10,318
+Foul on number three
+
+446
+00:14:10,402 --> 00:14:12,019
+for taking a number two
+on number four.
+
+447
+00:14:14,406 --> 00:14:15,472
+Roughing the passer.
+
+448
+00:14:15,524 --> 00:14:16,991
+Double dribbling.
+That's a foul.
+
+449
+00:14:17,075 --> 00:14:19,076
+That's a foul for touching
+the basketball.
+
+450
+00:14:19,144 --> 00:14:20,244
+What are you gonna do about it?
+
+451
+00:14:20,312 --> 00:14:21,412
+Nothing.
+You fouled.
+
+452
+00:14:21,479 --> 00:14:22,547
+You can't do anything.
+
+453
+00:14:22,614 --> 00:14:24,165
+Okay.
+
+454
+00:14:24,249 --> 00:14:25,366
+You're ejected.
+You're ejected.
+
+455
+00:14:26,985 --> 00:14:28,920
+Oh, what's the matter
+there, Ron?
+
+456
+00:14:28,987 --> 00:14:29,921
+No players left?
+
+457
+00:14:29,988 --> 00:14:32,657
+Yay, Andy's team!
+
+458
+00:14:32,724 --> 00:14:34,325
+- Look at 'em go!
+- Come on.
+
+459
+00:14:34,376 --> 00:14:36,511
+Now you're openly
+cheering for the other team?
+
+460
+00:14:36,578 --> 00:14:38,262
+- Put my boys back in.
+- You made me the ref.
+
+461
+00:14:38,330 --> 00:14:39,347
+Deal with it.
+
+462
+00:14:39,431 --> 00:14:40,698
+You know what?
+Take this uniform off.
+
+463
+00:14:40,766 --> 00:14:42,667
+- Hey, hey.
+- You don't deserve to wear it.
+
+464
+00:14:43,969 --> 00:14:45,736
+Ron's ejected
+for molesting the ref.
+
+465
+00:14:45,804 --> 00:14:46,837
+Oh, yeah?
+I'm ejected?
+
+466
+00:14:46,889 --> 00:14:47,855
+- Yes, you are.
+- Tom, what are you doing?
+
+467
+00:14:47,940 --> 00:14:49,173
+I'm ejecting you.
+
+468
+00:14:49,224 --> 00:14:50,841
+You're ejected, too.
+Everyone's ejected.
+
+469
+00:14:50,893 --> 00:14:51,842
+Oh, yeah?
+She's ejected?
+
+470
+00:14:51,894 --> 00:14:52,843
+Yeah.
+
+471
+00:14:52,895 --> 00:14:57,532
+Rrrraaaagh!
+
+472
+00:14:57,616 --> 00:14:59,584
+Go ahead, go.
+
+473
+00:14:59,651 --> 00:15:01,619
+Well, that's a forfeit.
+Andy's team wins.
+
+474
+00:15:01,687 --> 00:15:02,787
+No way!
+
+475
+00:15:02,854 --> 00:15:05,072
+We won!
+Oh, man!
+
+476
+00:15:05,157 --> 00:15:06,924
+Eat it!
+Ha, ha, ha, ha!
+
+477
+00:15:06,992 --> 00:15:09,427
+Andy, Andy, Andy!
+
+478
+00:15:09,494 --> 00:15:11,546
+Yeah!
+
+479
+00:15:11,630 --> 00:15:13,798
+Ah-ha-ha!
+Yes!
+
+480
+00:15:13,865 --> 00:15:15,733
+I dedicate this victory
+to April Ludgate.
+
+481
+00:15:15,801 --> 00:15:16,734
+It feels good.
+
+482
+00:15:16,802 --> 00:15:19,337
+And it feels sticky.
+
+483
+00:15:19,404 --> 00:15:21,088
+From the Gatorade.
+
+484
+00:15:21,156 --> 00:15:22,840
+We're barely able to function.
+
+485
+00:15:22,891 --> 00:15:25,142
+We could really use that money.
+
+486
+00:15:25,210 --> 00:15:26,677
+But you know,
+I don't know if it's because
+
+487
+00:15:26,745 --> 00:15:28,212
+I'm in such a good mood,
+
+488
+00:15:28,280 --> 00:15:29,614
+or because of the charming
+Ann Perkins,
+
+489
+00:15:29,681 --> 00:15:31,515
+but I am going
+to seriously consider that.
+
+490
+00:15:31,583 --> 00:15:33,517
+Really?
+That's great.
+
+491
+00:15:33,585 --> 00:15:34,518
+Mission accomplished.
+
+492
+00:15:34,570 --> 00:15:35,753
+Let's boogie.
+
+493
+00:15:35,821 --> 00:15:36,954
+Mission accomplished?
+
+494
+00:15:37,022 --> 00:15:40,191
+Uh-oh.
+
+495
+00:15:40,242 --> 00:15:41,425
+Yeah.
+
+496
+00:15:41,493 --> 00:15:45,363
+There's a mission, uh,
+that Ann had thought of.
+
+497
+00:15:45,414 --> 00:15:46,397
+It was both of our ideas,
+
+498
+00:15:46,465 --> 00:15:47,765
+but it was mostly Ann's.
+
+499
+00:15:47,833 --> 00:15:49,951
+We...
+
+500
+00:15:50,035 --> 00:15:51,953
+I had mentioned to Ann
+that it would be fun
+
+501
+00:15:52,037 --> 00:15:53,404
+if you two went on a date.
+
+502
+00:15:53,472 --> 00:15:54,505
+So then...
+
+503
+00:15:54,573 --> 00:15:57,258
+You could, uh,
+talk about the money
+
+504
+00:15:57,342 --> 00:16:01,512
+and then, you know,
+maybe give it to me.
+
+505
+00:16:01,579 --> 00:16:04,215
+Wow.
+
+506
+00:16:04,283 --> 00:16:08,286
+I've just had
+my first bad date.
+
+507
+00:16:08,353 --> 00:16:10,388
+Ann Perkins.
+
+508
+00:16:13,091 --> 00:16:16,127
+Not that sneaky.
+
+509
+00:16:24,978 --> 00:16:26,345
+April!
+
+510
+00:16:29,116 --> 00:16:30,032
+April.
+
+511
+00:16:30,100 --> 00:16:31,650
+Where have you been?
+Oh, my God.
+
+512
+00:16:31,702 --> 00:16:33,486
+- Hey, how are you?
+- I'm okay.
+
+513
+00:16:33,553 --> 00:16:34,653
+I'm dying to see you.
+
+514
+00:16:34,705 --> 00:16:37,773
+I called and texted you,
+like, a billion times.
+
+515
+00:16:37,841 --> 00:16:40,226
+Oh, I'm sorry.
+
+516
+00:16:40,293 --> 00:16:41,260
+I was in Venezuela.
+
+517
+00:16:41,328 --> 00:16:43,162
+Oh, really?
+
+518
+00:16:43,230 --> 00:16:44,330
+Wow.
+
+519
+00:16:44,381 --> 00:16:46,749
+Across the pond.
+
+520
+00:16:46,833 --> 00:16:48,267
+Wow.
+
+521
+00:16:48,335 --> 00:16:49,435
+I thought maybe
+I woulda heard from you
+
+522
+00:16:49,503 --> 00:16:53,055
+at least once
+because of what happened.
+
+523
+00:16:53,140 --> 00:16:54,473
+Ann kissing me?
+I'm so sorry about that.
+
+524
+00:16:54,541 --> 00:16:55,591
+It was so stupid,
+
+525
+00:16:55,675 --> 00:16:57,410
+and it meant nothing.
+
+526
+00:16:57,477 --> 00:17:00,563
+I wouldn't worry about it.
+It's totally fine.
+
+527
+00:17:00,647 --> 00:17:02,064
+Hey.
+
+528
+00:17:02,149 --> 00:17:04,817
+This is my boyfriend, Eduardo.
+
+529
+00:17:04,885 --> 00:17:06,185
+No, it's not.
+
+530
+00:17:06,253 --> 00:17:08,687
+- <i>¿Listo para lonche?</i>
+<i>- Si.</i>
+
+531
+00:17:08,739 --> 00:17:10,256
+That means we're going
+to lunch.
+
+532
+00:17:10,323 --> 00:17:12,024
+How do you say
+have a great time,
+
+533
+00:17:12,075 --> 00:17:13,025
+don't choke on anything?
+
+534
+00:17:13,076 --> 00:17:14,193
+Bye.
+
+535
+00:17:17,998 --> 00:17:19,865
+Leslie asked me
+to do her a favor,
+
+536
+00:17:19,916 --> 00:17:22,868
+and I love her, so I did it.
+
+537
+00:17:22,919 --> 00:17:25,371
+I'm sorry, and I'm here
+to eat crow.
+
+538
+00:17:25,439 --> 00:17:26,872
+I like you a lot.
+
+539
+00:17:26,940 --> 00:17:28,908
+Let's go out again.
+
+540
+00:17:31,011 --> 00:17:34,680
+Ann Perkins.
+
+541
+00:17:34,748 --> 00:17:37,099
+Budget solution number 28.
+
+542
+00:17:37,184 --> 00:17:41,937
+Use grazing sheep
+to mow grass in parks.
+
+543
+00:17:42,022 --> 00:17:45,858
+Note: Tired sheep
+could become food
+
+544
+00:17:45,926 --> 00:17:47,393
+or sweaters.
+
+545
+00:17:49,780 --> 00:17:51,297
+Well, I got my answer.
+
+546
+00:17:51,364 --> 00:17:52,665
+About April.
+
+547
+00:17:52,732 --> 00:17:54,033
+She hates me.
+Yeah.
+
+548
+00:17:54,101 --> 00:17:56,101
+And she got a boyfriend,
+I guess,
+
+549
+00:17:56,153 --> 00:17:57,570
+from some city in Mexico.
+
+550
+00:17:57,637 --> 00:17:59,271
+So...
+
+551
+00:17:59,322 --> 00:18:01,307
+What do I do?
+
+552
+00:18:01,374 --> 00:18:02,541
+Okay.
+
+553
+00:18:02,609 --> 00:18:04,310
+Well, when your back's
+against the wall
+
+554
+00:18:04,377 --> 00:18:07,413
+and odds are stacked
+against you,
+
+555
+00:18:07,481 --> 00:18:09,281
+you just...
+you...
+
+556
+00:18:09,332 --> 00:18:11,117
+You swing the hardest, damn it.
+
+557
+00:18:11,184 --> 00:18:12,468
+You go big, or you go home.
+
+558
+00:18:12,552 --> 00:18:14,753
+And you don't seem like
+the kind of guy who goes home.
+
+559
+00:18:14,821 --> 00:18:16,255
+I'm not.
+
+560
+00:18:16,306 --> 00:18:17,389
+I don't even really
+have a home.
+
+561
+00:18:17,457 --> 00:18:18,891
+- Go get her, Andy!
+- Okay.
+
+562
+00:18:18,958 --> 00:18:21,093
+Okay, thanks, Leslie!
+
+563
+00:18:24,231 --> 00:18:26,432
+Okay, so we know the people
+who run this government
+
+564
+00:18:26,500 --> 00:18:27,500
+have no faith in us.
+
+565
+00:18:27,567 --> 00:18:28,967
+My plan is gonna change that
+
+566
+00:18:29,019 --> 00:18:30,503
+and bring the budget back.
+
+567
+00:18:30,570 --> 00:18:31,837
+And the answer's been
+right in front of us
+
+568
+00:18:31,905 --> 00:18:32,822
+the whole time.
+
+569
+00:18:32,906 --> 00:18:34,857
+Ew, check your testicles?
+
+570
+00:18:34,941 --> 00:18:35,908
+No, not that.
+
+571
+00:18:35,976 --> 00:18:37,409
+Although that is
+very good advice.
+
+572
+00:18:37,477 --> 00:18:38,410
+I'm looking at you, Jerry.
+
+573
+00:18:38,478 --> 00:18:39,678
+No, what's gonna save us
+
+574
+00:18:39,746 --> 00:18:43,249
+is right there.
+
+575
+00:18:43,316 --> 00:18:44,850
+Gentlemen, I realize
+that times are tough,
+
+576
+00:18:44,918 --> 00:18:46,585
+and the budget is tight.
+
+577
+00:18:46,653 --> 00:18:49,455
+But if the people of this town
+have nothing else to do
+
+578
+00:18:49,523 --> 00:18:52,191
+but sit in their houses
+and play video games,
+
+579
+00:18:52,259 --> 00:18:54,493
+then Pawnee will die.
+
+580
+00:18:54,561 --> 00:18:57,763
+And we refuse
+to let that happen.
+
+581
+00:18:57,831 --> 00:18:59,882
+Now.
+
+582
+00:18:59,950 --> 00:19:02,051
+This town was historically
+known for two things.
+
+583
+00:19:03,670 --> 00:19:05,271
+Widespread obesity
+
+584
+00:19:05,338 --> 00:19:09,058
+and the annual
+Pawnee Harvest Festival.
+
+585
+00:19:09,142 --> 00:19:10,910
+People from all over Indiana
+would come
+
+586
+00:19:10,977 --> 00:19:12,244
+and gaze in wonderment
+
+587
+00:19:12,312 --> 00:19:13,812
+at how fat our citizens were.
+
+588
+00:19:13,880 --> 00:19:15,030
+And while they were here,
+
+589
+00:19:15,115 --> 00:19:16,582
+they would also attend
+the festival.
+
+590
+00:19:16,650 --> 00:19:19,051
+A full week of corn mazes,
+
+591
+00:19:19,119 --> 00:19:20,870
+hayrides, ferris wheels,
+
+592
+00:19:20,954 --> 00:19:22,821
+pumpkins the size of jeeps.
+
+593
+00:19:22,889 --> 00:19:25,858
+We lost that festival
+a few years ago,
+
+594
+00:19:25,926 --> 00:19:27,393
+due to another round
+of budget cuts.
+
+595
+00:19:27,460 --> 00:19:30,763
+And I propose
+we bring the festival back.
+
+596
+00:19:30,830 --> 00:19:32,698
+With ticket sales
+and corporate sponsorship,
+
+597
+00:19:32,749 --> 00:19:33,999
+we'll earn all that money back.
+
+598
+00:19:34,067 --> 00:19:35,334
+And believe me,
+people will come.
+
+599
+00:19:35,402 --> 00:19:36,835
+What if they don't?
+
+600
+00:19:36,903 --> 00:19:39,805
+Well...
+
+601
+00:19:39,872 --> 00:19:42,141
+Then you eliminate
+the Parks Department.
+
+602
+00:19:42,209 --> 00:19:44,777
+And you guys are all
+on board with this.
+
+603
+00:19:44,844 --> 00:19:46,412
+- Aye.
+- Yes.
+
+604
+00:19:46,479 --> 00:19:48,614
+Look, we're not
+just pencil pushers.
+
+605
+00:19:48,682 --> 00:19:51,817
+We are a reflection
+of the community.
+
+606
+00:19:51,884 --> 00:19:55,321
+And we believe that we can
+strengthen that community.
+
+607
+00:19:55,388 --> 00:19:57,323
+Because in the end,
+
+608
+00:19:57,390 --> 00:20:00,025
+the reason why we're all here
+
+609
+00:20:00,093 --> 00:20:02,828
+is to bring people together.
+
+610
+00:20:02,896 --> 00:20:06,032
+♪ ♪
+
+611
+00:20:06,375 --> 00:20:07,375
+That...
+
+612
+00:20:07,443 --> 00:20:09,544
+Literally...
+
+613
+00:20:09,612 --> 00:20:12,814
+Is the most moving thing
+I've ever heard.
+
+614
+00:20:12,882 --> 00:20:16,985
+And a good idea.
+
+615
+00:20:17,052 --> 00:20:17,986
+Yeah, all right.
+
+616
+00:20:18,037 --> 00:20:19,320
+Excellent.
+
+617
+00:20:19,388 --> 00:20:21,406
+Great, okay, so everybody,
+
+618
+00:20:21,490 --> 00:20:22,857
+we're gonna party hard
+for 15 minutes.
+
+619
+00:20:22,908 --> 00:20:26,327
+Then we're gonna have
+our first brainstorming session.
+
+620
+00:20:30,956 --> 00:20:31,956
+Hello, April.
+
+621
+00:20:32,023 --> 00:20:34,124
+Do you like the flowers?
+
+622
+00:20:34,192 --> 00:20:35,543
+What are you doing?
+
+623
+00:20:35,627 --> 00:20:37,361
+All due respect, Eduardo.
+
+624
+00:20:37,412 --> 00:20:38,829
+You seem like a great guy.
+
+625
+00:20:38,897 --> 00:20:40,564
+But I like April,
+and I'm coming after her
+
+626
+00:20:40,632 --> 00:20:42,616
+with everything I've got.
+
+627
+00:20:42,684 --> 00:20:44,602
+So do you want
+to go out with me?
+
+628
+00:20:44,669 --> 00:20:47,688
+No.
+
+629
+00:20:47,772 --> 00:20:48,906
+I thought you were gonna
+say yes,
+
+630
+00:20:48,974 --> 00:20:49,974
+but that's okay.
+
+631
+00:20:50,091 --> 00:20:51,859
+Because I'll be back tomorrow
+to ask you again.
+
+632
+00:20:51,927 --> 00:20:53,761
+And again the next day.
+
+633
+00:20:53,829 --> 00:20:54,945
+And the next day.
+
+634
+00:20:55,030 --> 00:20:55,946
+Not Friday.
+
+635
+00:20:56,031 --> 00:20:57,064
+I have to go visit my cousin.
+
+636
+00:20:57,115 --> 00:20:58,616
+But I will be back after that
+
+637
+00:20:58,700 --> 00:21:00,101
+to ask you again.
+
+638
+00:21:00,168 --> 00:21:02,169
+[...]
+
+639
+00:21:04,479 --> 00:21:07,357
+[...]
+
+640
+00:21:07,933 --> 00:21:09,379
+[...]
+
+641
+00:21:09,611 --> 00:21:12,680
+Ah! You should do it.
+
+642
+00:21:12,748 --> 00:21:14,615
+Uh, follow you dream.
+
+643
+00:21:14,683 --> 00:21:16,817
+Oh, my God.
+Really?
+
+644
+00:21:16,885 --> 00:21:17,818
+That's awesome.
+
+645
+00:21:18,953 --> 00:21:21,088
+I'll see you tomorrow.
+
+646
+00:21:21,156 --> 00:21:25,258
+<font color="#ec14bd">Sync by honeybunny</font>
+<font color="#ec14bd">www.addic7ed.com</font>
+

@@ -4,7 +4,7 @@ import argparse
 import giffysub.indexer
 
 
-def parse_args(parser):
+def get_parse_args(parser):
     parser.add_argument(
         'command',
         metavar='COMMAND', type=str, nargs='?', choices=['index', 'extract'],
@@ -15,28 +15,42 @@ def parse_args(parser):
         help='If set, directories will be scanned recursively for sub files.'
     )
     parser.add_argument(
-        '-d', '-directory',
+        '--d', '-directory',
         dest='directory', action='store_const', const='directory',
         help='The scan directory.'
     )
     parser.add_argument(
-        '-f', '-files',
+        '--f', '-files',
         dest='files', action='store_const', const='files',
         help='Files to be processed.'
     )
-    return parser.parse_args()
+    parser.add_argument(
+        '--sub_exts', '--se',
+        dest='subtitle_exts', action='store_const', const='subtitle_exts',
+        help='Subtitle extensions to process.',
+        default='sub,srt'
+    )
+    parser.add_argument(
+        '--vid_exts', '--ve',
+        dest='video_exts', action='store_const', const='video_exts',
+        help='Subtitle extensions to process.',
+        default='sub,srt'
+    )
+    args = parser.parse_args()
+    args.subtitle_exts = args.subtitle_exts.lower().split(',')
+
+    print(args.subtitle_exts)
+    return args
 
 
 if __name__ == '__main__':
-
     parser = argparse.ArgumentParser(
         description='Generates GIFs from subtitled video.'
     )
-    args = parse_args(parser)
+    args = get_parse_args(parser)
 
     if args.command == 'index':
         pass
 
     if not args.command:
         print(parser.print_help())
-    # print(args.accumulate(args.integers))
